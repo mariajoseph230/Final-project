@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644908066 source:c:\users\user\desktop\final project\learning bytes project\main.cpp
+	<iostream>
+	<fstream>
+
